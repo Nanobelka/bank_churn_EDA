@@ -1,4 +1,7 @@
 # [Анализ оттока клиентов банка с применением машинного обучения](https://nbviewer.jupyter.org/github/Nanobelka/bank_churn_EDA/blob/main/bank_churn_EDA.ipynb)
+
+## [Презентация](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Nanobelka/bank_churn_EDA/main/presentation.pdf)
+
 ## На основании ряда характеристик создать портрет клиента, склонного к уходу из банка
 
 **Заказчик:** некий банк.
